@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/The Storyteller's Revenge.unity
+  isLoaded: 1
+  isActive: 1

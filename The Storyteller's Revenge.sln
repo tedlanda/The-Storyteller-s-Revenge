@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Storyteller's Revenge", "Assembly-CSharp.csproj", "{1049FFDA-12AC-7B86-733E-5CD439E95CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Storyteller's Revenge", "Assembly-CSharp-Editor.csproj", "{BB695CE3-AD1F-A46C-71E5-A30C09731995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1049FFDA-12AC-7B86-733E-5CD439E95CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1049FFDA-12AC-7B86-733E-5CD439E95CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1049FFDA-12AC-7B86-733E-5CD439E95CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1049FFDA-12AC-7B86-733E-5CD439E95CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB695CE3-AD1F-A46C-71E5-A30C09731995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB695CE3-AD1F-A46C-71E5-A30C09731995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB695CE3-AD1F-A46C-71E5-A30C09731995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB695CE3-AD1F-A46C-71E5-A30C09731995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
