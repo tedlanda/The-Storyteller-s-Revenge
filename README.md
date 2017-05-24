@@ -1,6 +1,6 @@
 # The-Storyteller-s-Revenge
 
-This is a project in which two 180 videos were stitched together using Pix Pro 360 basic software to create a 360 video of a traveler riding with a friend in a rickshaw in the streets of India. The video is roughly three minutes long and is imported into Unity with GVR SDK 1.0.3.
+This is a project which depicts a traveler going around the world showcasing the kind of life I have always wanted to have but couldn't achieve. GVR SDK 1.0.3. was used, as well as Pix Pro 360 video stitching software.
 
 __Development Process__
 
