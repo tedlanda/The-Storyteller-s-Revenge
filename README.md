@@ -8,4 +8,8 @@ I began with downloading Jessica's videos from Dropbox and by researching some o
 
 __User Testing__
 
+I launched the Unity app I created on my LG Nexux Android smartphone and put it into a cardboard viewer. The non-edited 50 second long video was clear and had a smooth transition between character movements.
+
+__Breakdown of Final Piece__
+
 __Conclusion__
