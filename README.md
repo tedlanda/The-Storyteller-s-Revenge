@@ -10,7 +10,7 @@ I began with downloading Jessica's videos from Dropbox and by researching some o
 
 __User Testing__
 
-I launched the Unity app I created on my LG Nexux Android smartphone and put it into a cardboard viewer. The non-edited 50 second long video was clear and had a smooth transition between character movements.
+I launched the Unity app I created on my LG Nexux Android smartphone and put it into a cardboard viewer. The non-edited 50 second long video was clear and had a smooth transition between character movements. I was able to upload the video to YouTube and watch it in 360 format. For some reason though, the adjuster to toggle the 360 view disappeared from the top left-hand corner after watching the video a couple of times. 
 
 __Breakdown of Final Piece__
 
