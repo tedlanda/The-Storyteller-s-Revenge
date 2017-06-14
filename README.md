@@ -18,3 +18,4 @@ __Breakdown of Final Piece__
 
 
 __Conclusion__
+This 52 second video eventually got condensed to 30 seconds and included an intro, some music in the background and ending credits.
