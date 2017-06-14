@@ -14,7 +14,7 @@ I launched the Unity app I created on my LG Nexux Android smartphone and put it 
 
 __Breakdown of Final Piece__
 
-![GitHub Logo](/Screenshots/Android1.png)
+![The Grand Canyon](Android1.png)
 
 
 __Conclusion__
